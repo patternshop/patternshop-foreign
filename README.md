@@ -1,0 +1,3 @@
+# Patternshop
+
+## Foreign libraries submodule
